@@ -8,7 +8,6 @@ Current WiX Build Toolset version included: v3.11.
 
 ## Usage
 * Docker Base Image: dotnet-framework-wix:4.7.2-sdk
-* Docker Registry: docker-dev.phibred.com
 * Default User: buildadmin (Groups: Administrators)
     * __Notes:__ Grant mounted folders to "Administrators" group when executing commands inside the container.
 * Custom Script in Build Step:
